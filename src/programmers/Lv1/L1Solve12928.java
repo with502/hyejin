@@ -1,4 +1,4 @@
-package programmers;
+package programmers.Lv1;
 
 public class L1Solve12928 {
 	//약수의 합

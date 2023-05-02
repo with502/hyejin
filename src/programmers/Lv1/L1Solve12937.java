@@ -1,4 +1,4 @@
-package programmers;
+package programmers.Lv1;
 
 public class L1Solve12937 {
 	//짝수와 홀수

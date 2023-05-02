@@ -1,4 +1,4 @@
-package programmers;
+package programmers.Lv2;
 
 public class L2Solve12951 {
 	// JadenCase 문자열 만들기    //보류

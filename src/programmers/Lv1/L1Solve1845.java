@@ -1,9 +1,9 @@
-package programmers;
+package programmers.Lv1;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solve1845 {
+public class L1Solve1845 {
 	//폰켓몬
 	public static void main(String[] args) {
 		

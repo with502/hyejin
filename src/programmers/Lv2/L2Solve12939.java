@@ -1,4 +1,4 @@
-package programmers;
+package programmers.Lv2;
 
 public class L2Solve12939 {
 	//최댓값과 최솟값

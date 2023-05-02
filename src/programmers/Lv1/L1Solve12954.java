@@ -1,4 +1,4 @@
-package programmers;
+package programmers.Lv1;
 
 public class L1Solve12954 {
 	// x만큼 간격이 있는 n개의 숫자
